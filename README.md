@@ -6,3 +6,6 @@ https://marketplace.visualstudio.com/items?itemName=NuProjTeam.NuGetPackageProje
 
 ## Unity / Hololens
 Streaming player plugin: http://renderheads.com/product/avpro-video/
+
+## Xamarin links / docs
+https://github.com/MarcBruins/awesome-xamarin
