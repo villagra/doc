@@ -8,6 +8,9 @@ https://marketplace.visualstudio.com/items?itemName=NuProjTeam.NuGetPackageProje
 Streaming player plugin: http://renderheads.com/product/avpro-video/
 Tutorials: https://www.raywenderlich.com/category/unity
 
+## UWP controls / demos
+EasyCarousel https://github.com/validvoid/UWP_EasyCarousel
+
 ## Xamarin links / docs
 https://github.com/MarcBruins/awesome-xamarin
 
