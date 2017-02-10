@@ -1,12 +1,13 @@
 # Relevant docuemntation & links
 
 ## Nuget
-NuGet Package Project
-https://marketplace.visualstudio.com/items?itemName=NuProjTeam.NuGetPackageProject
+NuGet Package Project https://marketplace.visualstudio.com/items?itemName=NuProjTeam.NuGetPackageProject
 
 ## Unity / Hololens
-Streaming player plugin: http://renderheads.com/product/avpro-video/
-Tutorials: https://www.raywenderlich.com/category/unity
+Streaming player plugin: http://renderheads.com/product/avpro-video  
+Tutorials: https://www.raywenderlich.com/category/unity  
+HoloToolkit-Unity: https://github.com/Microsoft/HoloToolkit-Unity  
+HoloLensCompanionKit: https://github.com/Microsoft/HoloLensCompanionKit  
 
 ## UWP controls / demos
 EasyCarousel https://github.com/validvoid/UWP_EasyCarousel
