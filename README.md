@@ -12,6 +12,7 @@ Unity3d + json.net: http://naplandgames.com/blog/2017/01/29/data-serialization-p
 
 ## UWP controls / demos
 EasyCarousel https://github.com/validvoid/UWP_EasyCarousel
+What's new: https://github.com/EdiWang/WhatsNew.UWP  
 
 ## Xamarin links / docs
 https://github.com/MarcBruins/awesome-xamarin
