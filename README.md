@@ -11,7 +11,7 @@ HoloLensCompanionKit: https://github.com/Microsoft/HoloLensCompanionKit
 Unity3d + json.net: http://naplandgames.com/blog/2017/01/29/data-serialization-part-2-unity3d-json-net-and-twitter-rest-api/  
 
 ## UWP controls / demos
-EasyCarousel https://github.com/validvoid/UWP_EasyCarousel
+EasyCarousel https://github.com/validvoid/UWP_EasyCarousel  
 What's new: https://github.com/EdiWang/WhatsNew.UWP  
 
 ## Xamarin links / docs
