@@ -1,5 +1,9 @@
 # Relevant docuemntation & links
 
+## GIT
+Git lol: http://uberblo.gs/2010/12/git-lol-the-other-git-log (log abreviation)  
+git config --global --add alias.lol "log --graph --decorate --pretty=oneline --abbrev-commit --all"  
+
 ## Nuget
 NuGet Package Project https://marketplace.visualstudio.com/items?itemName=NuProjTeam.NuGetPackageProject
 
