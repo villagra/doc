@@ -6,7 +6,7 @@ git config --global --add alias.lol "log --graph --decorate --pretty=oneline --a
 
 ## Use keys on windows
 1. Create a key for your github account  
-ssh-keygen -t rsa "your-email-address"  
+ssh-keygen -t rsa -C "your-email-address"  
 
 The following will show:
 ~~~~
