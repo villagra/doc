@@ -5,6 +5,8 @@ Git lol: http://uberblo.gs/2010/12/git-lol-the-other-git-log (log abreviation)
 git config --global --add alias.lol "log --graph --decorate --pretty=oneline --abbrev-commit --all"  
 
 ## Use keys on windows
+0. Update git to the last version
+
 1. Create a key for your github account  
 ssh-keygen -t rsa -C "your-email-address"  
 
@@ -15,13 +17,15 @@ Enter file in which to save the key (/c/Users/your_username/.ssh/id_rsa):
 ~~~~
 Save the key in your username folder typing:
 ~~~~
-c/Users/your_username/.ssh/id_rsa_IDENTIFIABLE_NAME_HERE
+C:\Users\jmvil\.ssh\id_rsa_IDENTIFIABLE_NAME_HERE
 ~~~~
 For exmple:
 ~~~~
 c/Users/villagra/.ssh/id_rsa_villagra
 ~~~~
-This will generate two files, a id_rsa_villagra and a id_rsa_villagra.pub
+This will generate two files, a id_rsa_villagra and a id_rsa_villagra.pub  
+Sometimes i get an error if the .ssh folder doesn't exists. In that case create the .ssh folder before creating the key
+
 
 2. Add the pub's file contents in your github account => settings => ssh and gpg keys.
 3. Navigate to the repository you want to connect via ssh ahd type
