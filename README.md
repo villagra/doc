@@ -45,7 +45,7 @@ git config user.email test@test.com
 	ignorecase = true
 	sshCommand = ssh -i c:/Users/villagra/.ssh/id_rsa_villagra
 [remote "origin"]
-	url = https://github.com/villagra/vue-resources.git
+	url = git@github.com:villagra/vue-resources.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
