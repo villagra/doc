@@ -1,7 +1,7 @@
 # Relevant docuemntation & links
 
 ## GIT
-Git lol: http://uberblo.gs/2010/12/git-lol-the-other-git-log (log abreviation)  
+Git lol: http://uberblo.gs/2010/12/git-lol-the-other-git-log (log abbreviation)  
 git config --global --add alias.lol "log --graph --decorate --pretty=oneline --abbrev-commit --all"  
 
 ## Use keys on windows
