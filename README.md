@@ -15,16 +15,12 @@ The following will show:
 Generating public/private rsa key pair.
 Enter file in which to save the key (/c/Users/your_username/.ssh/id_rsa):
 ~~~~
-Save the key in your username folder typing:
+Enter the path you want to save your key in, for example (be sure the folder exists):
 ~~~~
-C:\Users\jmvil\.ssh\id_rsa_IDENTIFIABLE_NAME_HERE
-~~~~
-For exmple:
-~~~~
-c/Users/villagra/.ssh/id_rsa_villagra
+c:/Users/villagra/.ssh/id_rsa_villagra
 ~~~~
 This will generate two files, a id_rsa_villagra and a id_rsa_villagra.pub  
-Sometimes i get an error if the .ssh folder doesn't exists. In that case create the .ssh folder before creating the key
+Be sure the folder exists before the key
 
 
 2. Add the pub's file contents in your github account => settings => ssh and gpg keys.
